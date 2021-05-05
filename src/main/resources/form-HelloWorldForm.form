@@ -1,0 +1,32 @@
+{
+  "name": "hello_world_form",
+  "key": "HelloWorldForm",
+  "version": 0,
+  "fields": [
+    {
+      "fieldType": "FormField",
+      "id": "name",
+      "name": "name",
+      "type": "text",
+      "value": null,
+      "required": true,
+      "readOnly": false,
+      "overrideId": false,
+      "placeholder": null,
+      "layout": null
+    },
+    {
+      "fieldType": "FormField",
+      "id": "age",
+      "name": "age",
+      "type": "integer",
+      "value": null,
+      "required": true,
+      "readOnly": false,
+      "overrideId": false,
+      "placeholder": "Age",
+      "layout": null
+    }
+  ],
+  "outcomes": []
+}
